@@ -2,6 +2,8 @@
 
 # Jackson Bristol Standley
 
+![Jack](jack.png)
+
 [Home](index.md) [Sports](achievements.md) [Achievements](achievements1.md)  [Academics](academics.md)
 
 Jack Standley is a 19 year old boy from O'Fallon, MO. He now resides at  
