@@ -1,5 +1,7 @@
 # Achievements
 
+![Trophy](trophy.jpeg)
+
 [Home](index.md) [Sports](achievements.md) [Achievements](achievements1.md)  [Academics](academics.md)
 
 Jack has accumulated many awards over his time on this earth. From baseball and swimming to art and music. It seems like Jack has done it all.  
